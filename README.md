@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: type mismatch errors during comparisons. VBScript's flexibility with data types can cause unexpected behavior if you don't carefully manage type conversions and comparisons.  The `bug.vbs` file shows the problematic code, and `bugSolution.vbs` provides a corrected version that handles different data types gracefully.
